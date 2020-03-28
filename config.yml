@@ -3,6 +3,12 @@ languageCode: en-us
 title: Cookbook
 theme: gochowdown
 publishDir: docs
+paginate: 20
+canonifyurls: true
+pygmentsstyle: monokai
+pygmentscodefences: true
+pygmentscodefencesguesssyntax: true
+pygmentsOptions: "linenos=table"
 menu:
   main:
     - name: Home
