@@ -3,15 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jdolce.github.io/cookbook/categories/</loc>
+    <loc>https://jdolce.github.io/cookbook/tags/bread/</loc>
+    <lastmod>2020-03-28T12:47:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdolce.github.io/cookbook/recipes/easy-bread/</loc>
+    <lastmod>2020-03-28T12:47:55-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://jdolce.github.io/cookbook/</loc>
+    <lastmod>2020-03-28T12:47:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdolce.github.io/cookbook/recipes/</loc>
+    <lastmod>2020-03-28T12:47:55-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://jdolce.github.io/cookbook/tags/</loc>
+    <lastmod>2020-03-28T12:47:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdolce.github.io/cookbook/categories/</loc>
   </url>
   
 </urlset>

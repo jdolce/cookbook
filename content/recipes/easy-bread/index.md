@@ -1,7 +1,7 @@
 ---
 layout: recipe
 date: 2020-03-28T12:47:55-04:00
-draft: true    
+draft: false    
 title:  "easy bread" # The title of your awesome recipe
 image: bread.jpg # Name of image in recipe bundle
 imagecredit: https://www.kingarthurflour.com/recipes/the-easiest-loaf-of-bread-youll-ever-bake-recipe # URL to image source page, website, or creator
