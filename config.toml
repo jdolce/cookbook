@@ -1,4 +1,4 @@
-baseURL = "jdolce.github.io/cookbook"
+baseURL = "https://jdolce.github.io/cookbook"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "gochowdown"
