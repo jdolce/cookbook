@@ -1,0 +1,23 @@
+baseURL: https://jdolce.github.io/cookbook/
+languageCode: en-us
+title: Cookbook
+theme: gochowdown
+publishDir: docs
+menu:
+  main:
+    - name: Home
+      weight: 1
+      url: /
+    - name: Category
+      weight: 2
+      url: /category/
+    - name: Cuisine
+      weight: 3
+      url: /cuisine/
+    - name: Tags
+      weight: 4
+      url: /tags/
+taxonomies:
+  category: category
+  cusine: cuisine
+  tag: tags
