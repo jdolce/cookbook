@@ -6,10 +6,28 @@
     <description>Recent content in Category on Cookbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Mar 2020 12:47:55 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2020 17:26:05 -0400</lastBuildDate>
     
 	<atom:link href="https://jdolce.github.io/cookbook/category/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>dinner</title>
+      <link>https://jdolce.github.io/cookbook/category/dinner/</link>
+      <pubDate>Sun, 29 Mar 2020 17:26:05 -0400</pubDate>
+      
+      <guid>https://jdolce.github.io/cookbook/category/dinner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>breakfast</title>
+      <link>https://jdolce.github.io/cookbook/category/breakfast/</link>
+      <pubDate>Sun, 29 Mar 2020 16:56:58 -0400</pubDate>
+      
+      <guid>https://jdolce.github.io/cookbook/category/breakfast/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>bread</title>

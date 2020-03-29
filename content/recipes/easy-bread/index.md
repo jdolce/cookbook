@@ -5,7 +5,7 @@ draft: false
 title:  "Easiest Loaf Of Bread You'll Ever Bake" # The title of your awesome recipe
 description: This recipe is my Covid 19 Quarantine bread. The original recipe called for a 450˚F oven, but that seemed to hot for my oven. The following instructions will vary slighty to reflect how I was successful.
 image: bread.jpg # Name of image in recipe bundle
-imagecredit: https://www.kingarthurflour.com/recipes/the-easiest-loaf-of-bread-youll-ever-bake-recipe # URL to image source page, website, or creator
+imagecredit: #mine
 YouTubeID:  # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
 authorName: # Name of the recipe/article author
 authorURL: # URL of their home website

@@ -6,10 +6,28 @@
     <description>Recent content in Cuisine on Cookbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Mar 2020 12:47:55 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2020 17:26:05 -0400</lastBuildDate>
     
 	<atom:link href="https://jdolce.github.io/cookbook/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Indian</title>
+      <link>https://jdolce.github.io/cookbook/cuisine/indian/</link>
+      <pubDate>Sun, 29 Mar 2020 17:26:05 -0400</pubDate>
+      
+      <guid>https://jdolce.github.io/cookbook/cuisine/indian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Italian</title>
+      <link>https://jdolce.github.io/cookbook/cuisine/italian/</link>
+      <pubDate>Sun, 29 Mar 2020 17:12:38 -0400</pubDate>
+      
+      <guid>https://jdolce.github.io/cookbook/cuisine/italian/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>baking</title>

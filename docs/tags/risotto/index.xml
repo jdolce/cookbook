@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>risotto on Cookbook</title>
+    <link>https://jdolce.github.io/cookbook/tags/risotto/</link>
+    <description>Recent content in risotto on Cookbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Mar 2020 17:12:38 -0400</lastBuildDate>
+    
+	<atom:link href="https://jdolce.github.io/cookbook/tags/risotto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sausage Risotto Radicchio</title>
+      <link>https://jdolce.github.io/cookbook/recipes/sausage-risotto-radicchio/</link>
+      <pubDate>Sun, 29 Mar 2020 17:12:38 -0400</pubDate>
+      
+      <guid>https://jdolce.github.io/cookbook/recipes/sausage-risotto-radicchio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
